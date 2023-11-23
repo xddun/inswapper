@@ -1,3 +1,10 @@
+# fork 目的
+
+1. 可快捷查看insightface的人脸检测
+2. 可查看insightsface的inswapper128.onnx使用
+3. CodeFormer在原CodeFormer仓库比较乱，这里使用CodeFormer的代码非常简洁，值得学习
+
+
 # inswapper
 
 One-click Face Swapper and Restoration powered by [insightface](https://github.com/deepinsight/insightface). We don't use the name ROOP here, as the credit should be given to the group that develops this great face swap model.
